@@ -12,5 +12,5 @@ Desarrollado en entorno Linux/Fedora
 
 ### Reconocimiento en imagenes
 python3.6 yoloi.py
-### Reconocimiento en imagenes
+### Reconocimiento en video
 python3.6 yoloPrueba.py
