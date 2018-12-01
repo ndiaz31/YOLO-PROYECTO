@@ -7,6 +7,8 @@ Desarrollado en entorno Linux/Fedora
 - Python 3.6
 - Tensorflow
 - Opencv
+- Pesos para el algoritmo ()
+
 
 ## EJECUTAR EL PROYECTO
 
@@ -14,3 +16,6 @@ Desarrollado en entorno Linux/Fedora
 python3.6 yoloi.py
 ### Reconocimiento en video
 python3.6 yoloPrueba.py
+
+![demo](gif/ezgif.com-video-to-gif.gif)
+
