@@ -1,0 +1,22 @@
+<annotation>
+  <folder>revolver</folder>
+  <filename>000049.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>688</width>
+    <height>900</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Revolver</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>219</xmin>
+      <ymin>56</ymin>
+      <xmax>608</xmax>
+      <ymax>618</ymax>
+    </bndbox>
+  </object>
+</annotation>
